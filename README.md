@@ -28,14 +28,13 @@ Após isso, é só criar mais um espaço no array baseMusicas com todas as infor
 
 ## Executar projeto:
 Para executar este projeto no seu computador, basta clicar em "Code" e depois em Download ZIP, para baixar os arquivos
-<!-- <img src="scr/img/download_repositorio.png"> -->
+<img src="src/img/download_repositorio.png">
 
 Ou clone o repositório pelo link:
-<!--'''bash
-$ git (link do clone)
-'''-->
+```bash
+$ git https://github.com/shioheii/Shioheify.git
+```
 Então abra a página "index.html" no navegador.
-
 
 ---
 
