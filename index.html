@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+    
+    <!-- Cabeçalho -->
+    <head>
+        <meta charset="UTF-8">
+        <title>Shioheify</title>
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+        <link rel="stylesheet" type="text/css" href="./src/css/style.css">
+    </head>
+    
+    <!-- Corpo -->
+    <body>
+        
+        <!-- Conteúdo mais importante - tag main -->
+        <main>
+
+            <!-- Menu de opções --> 
+            <aside class="sidebarMenuNavegacao">
+
+                <!-- Logo -->
+                <img src="./src/img/logo.png" alt="Shioheify">
+            
+                <!-- Itens do menu -->
+                <nav class="menuNavegacao">
+
+                    <!-- Lista de links -->
+                    <ul class="listaLinks">
+                        <li>
+                            <a href="">
+                                <img src="./src/img/icone1.png" alt="Home">
+                                Home
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <img src="./src/img/icone3.png" alt="Liked songs">
+                                Liked songs
+                            </a>
+                        </li>
+                    </ul>
+
+                </nav>
+
+            </aside>
+
+            <!-- Seção com as músicas -->
+            <section class="secaoMusicas">
+                <!-- Cabeçalho da seção de músicas -->
+                <header class="cabecalho">
+
+                    <div class="user">
+                        <img src="./src/img/user.png" alt="Usuário">
+                        <h2>Bruno</h2>
+                    </div>
+
+                    <div class="qtdMusicas">
+                        <p id="qtdSons">3 songs</p>
+                    </div>
+
+                </header>
+
+                <!-- Lista de músicas -->
+                <div class="areaListaMusicas">
+                    <!-- Botão de pausar -->
+                    <button class="botao" id="botaoPause">Pause</button>
+
+                    <!-- Cabeçalho que representa as informações das músicas -->
+                    <div class="cabecalhoInfoMusicas">
+                        <p class="primeiroItem">TITLE</p>
+                        <p>ARTIST</p>
+                        <p>ALBUM</p>
+                    </div>
+
+                    <!-- Lista das músicas -->
+                    <ul class="listaMusicas">
+                        <!-- Músicas geradas pelo javascript -->
+                    </ul>
+
+                </div>
+
+            </section>
+
+            <!-- Player -->
+            <section class="areaPlayer">
+
+                <audio src="" id="saidaAudio"></audio>
+
+                <!-- Foto, nome e album da musica que esta tocando -->
+                <div class="infoMusicaAtual">
+                    
+                    <figure class="imagemAlbum">
+                        <img id="fotoAlbum" src="./src/img/album1.png" alt="Album">
+                        <figcaption>Legenda</figcaption>
+                    </figure>
+
+                    <div class="infoAlbum">
+                        <h2 id="nomeMusica">Believer</h2>
+                        <p id="nomeArtista">Imagine Dragons</p>
+                    </div>
+
+                </div>
+
+                <!-- Botões de controle -->
+                <div class="areaPlayerControles">
+                    <button class="botao" id="botaoPrev"></button>
+                    <button class="botao" id="botaoPlay"></button>
+                    <button class="botao" id="botaoNext"></button>
+                </div>
+
+                <!-- Controle de volume -->
+                <div class="areaPlayerVolume">
+                    <input type="range" max="1" value="1" step="0.1">
+                </div>
+
+            </section>
+
+        </main>
+
+        <script type="text/javascript" src="./src/js/script.js"></script>
+
+    </body>
+
+</html>
