@@ -19,15 +19,12 @@ A proposta do projeto era desenvolver uma interface inspirada no [Spotify](https
 ## Ferramenta utilizada:
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-<!-- ## Projeto funcional:
-(link do site funcionando) -->
-
 ## Adicionar músicas
 Para adicionar novas músicas ao site, basta colocar os arquivos na pasta "audio" (scr/audio) e a imagem do álbum na pasta "img" (scr/img).
 Após isso, é só criar mais um espaço no array baseMusicas com todas as informações, e o programa já irá adicioná-lo.
 
 ## Executar projeto:
-Para executar este projeto no seu computador, basta clicar em "Code" e depois em "Download ZIP", para baixar os arquivos
+Para executar este projeto no seu computador, basta clicar em "Code" e depois em "Download ZIP":
 <img src="src/img/download_repositorio.png">
 
 Ou clone o repositório pelo link:
