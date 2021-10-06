@@ -2,7 +2,7 @@
 O projeto Shioheify foi desenvolvido por mim, enquanto participava do evento online: Maratona do Zero ao Código - IV Edição, realizado pela [Kenzie Academy](https://kenzie.com.br/).
 
 ## Sobre o projeto:
-A proposta do projeto era desenvolver uma interface inspirada no [Spotify](https://www.spotify.com/br/), onde poderíamos ouvir as músicas que colocamos no site. Como eu nunca havia tido contato com o front-end de uma forma mais direta, fui fazendo passo a passo, me atentando aos novos conceitos.
+A proposta do projeto era desenvolver uma interface inspirada no [Spotify](https://www.spotify.com/br/), onde poderíamos ouvir as músicas que colocamos no site. Como eu nunca havia tido contato com o front-end de uma forma mais direta, fui fazendo passo a passo, conforme os professores iam avançando no projeto, me atentando aos novos conceitos.
 
 ## O que aprendi?
 - Diferentes tags e para que servem no HTML
@@ -20,7 +20,7 @@ A proposta do projeto era desenvolver uma interface inspirada no [Spotify](https
 - [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Adicionar músicas
-Para adicionar novas músicas ao site, basta colocar os arquivos na pasta "audio" (scr/audio) e a imagem do álbum na pasta "img" (scr/img).
+Para adicionar novas músicas ao site, basta colocar os arquivos .mp3 na pasta "audio" (scr/audio) e a imagem do álbum na pasta "img" (scr/img).
 Após isso, é só criar mais um espaço no array baseMusicas com todas as informações, e o programa já irá adicioná-lo.
 
 ## Executar projeto:
