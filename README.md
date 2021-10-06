@@ -1,8 +1,9 @@
 # Projeto Shioheify
 <a href="#">
   <img alt="Linguagens" src="https://img.shields.io/github/languages/count/shioheii/Shioheify">
-</a>
-<br /> O projeto Shioheify foi desenvolvido por mim, enquanto participava do evento online: Maratona do Zero ao Código - IV Edição, realizado pela [Kenzie Academy](https://kenzie.com.br/).
+</a><br />
+
+O projeto Shioheify foi desenvolvido por mim, enquanto participava do evento online: Maratona do Zero ao Código - IV Edição, realizado pela [Kenzie Academy](https://kenzie.com.br/).
 
 ## Sobre o projeto:
 A proposta do projeto era desenvolver uma interface inspirada no [Spotify](https://www.spotify.com/br/), onde poderíamos ouvir as músicas que colocamos no site. Como eu nunca havia tido contato com o front-end de uma forma mais direta, fui fazendo passo a passo, conforme os professores iam avançando no projeto, me atentando aos novos conceitos.
