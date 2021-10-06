@@ -1,6 +1,18 @@
 # Projeto Shioheify
+<a href="https://github.com/shioheii">
+  <img alt="Linguagens" src="https://img.shields.io/badge/autor-Bruno%20Shiohei%20Kinoshita%20do%20Nascimento-DB3833">
+</a>
 <a href="#">
-  <img alt="Linguagens" src="https://img.shields.io/github/languages/count/shioheii/Shioheify">
+  <img alt="Linguagens" src="https://img.shields.io/github/stars/shioheii/Shioheify?color=DB3833">
+</a>
+<a href="#">
+  <img alt="Linguagens" src="https://img.shields.io/github/last-commit/shioheii/Shioheify?color=DB3833">
+</a>
+<a href="#">
+  <img alt="Linguagens" src="https://img.shields.io/github/languages/count/shioheii/Shioheify?color=DB3833">
+</a>
+<a href="#">
+  <img alt="Linguagens" src="https://img.shields.io/github/languages/code-size/shioheii/Shioheify?color=DB3833">
 </a><br />
 
 O projeto Shioheify foi desenvolvido por mim, enquanto participava do evento online: Maratona do Zero ao Código - IV Edição, realizado pela [Kenzie Academy](https://kenzie.com.br/).
@@ -39,6 +51,11 @@ Então abra a página "index.html" no navegador.
 
 ---
 
-### Redes sociais:
-[GitHub](https://github.com/shioheii) <br />
-[LinkedIn](https://www.linkedin.com/in/bruno-shiohei-24b27621a/)
+<p align="center">
+  <a alt="Bruno Shiohei Kinoshita do Nascimento Linkedin" href="https://www.linkedin.com/in/bruno-shiohei-24b27621a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bruno%20Shiohei%20Kinoshita%20do%20Nascimento-blue?logo=linkedin">
+  </a>
+  <a alt="Bruno Shiohei Kinoshita do Nascimento GitHub" href="https://github.com/shioheii">
+    <img src="https://img.shields.io/badge/GitHub-shioheii-lightgrey?logo=github">
+  </a>
+</p>
