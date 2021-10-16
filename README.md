@@ -41,7 +41,7 @@ Após isso, é só criar mais um espaço no array "baseMusicas" com todas as inf
 
 ## Projeto funcional
 Observação: Por ser meu primeiro contato com o front-end, o site não foi desenvolvido de forma responsiva, então pode ser que a aparência do site não fique como deveria estar </br>
-Link: [Shioheify]()
+Link: [Shioheify](https://shioheify.vercel.app/)
 
 ### Sobre o Vercel
 A [Vercel](https://vercel.com/dashboard) é uma plataforma voltada para a hospedagem de aplicações de uma forma bem simples e rápida. Ela é conhecida por ser a empresa criadora do framework Next JS, voltado para o React. </br> </br>
