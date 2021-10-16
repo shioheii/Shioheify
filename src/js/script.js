@@ -9,28 +9,28 @@ const baseMusicas = [
         'artist': 'Imagine Dragons',
         'path': './src/audio/Imagine_Dragons_-_Believer.mp3',
         'album': 'Evolve',
-        'pathImg': './src/img/Album1.png',
+        'pathImg': './src/img/album1.png',
     },
     {
         'name': 'I Found',
         'artist': 'Amber Run',
         'path': './src/audio/Amber_Run_-_I_Found.mp3',
         'album': '5AM (Expanded Edition)',
-        'pathImg': './src/img/Album2.png',
+        'pathImg': './src/img/album2.png',
     },
     {
         'name': 'Crossfire',
         'artist': 'Stephen',
         'path': './src/audio/Stephen_-_Crossfire.mp3',
         'album': 'Sincerely',
-        'pathImg': './src/img/Album3.png',
+        'pathImg': './src/img/album3.png',
     },
     {
         'name': 'Bloodshot',
         'artist': 'Sam Tinnesz',
         'path': './src/audio/Sam_Tinnesz_-_Bloodshot.mp3',
         'album': 'Warplanes',
-        'pathImg': './src/img/Album4.png',
+        'pathImg': './src/img/album4.png',
     }
 ]
 
