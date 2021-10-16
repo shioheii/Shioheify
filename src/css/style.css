@@ -126,7 +126,9 @@ main{
 .listaMusicas > li{
     display: flex;
     padding: 8px 56px;
+    margin: 10px 0;
     border-bottom: 1px solid #646464;
+    cursor: pointer;
 }
 .listaMusicas > li > .primeiroItem{
     width: 60%;
