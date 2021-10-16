@@ -36,10 +36,18 @@ A proposta do projeto era desenvolver uma interface inspirada no [Spotify](https
 - [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Adicionar músicas
-Para adicionar novas músicas ao site, basta colocar os arquivos .mp3 na pasta "audio" (scr/audio) e a imagem do álbum na pasta "img" (scr/img).
-Após isso, é só criar mais um espaço no array "baseMusicas" com todas as informações, e o programa já irá adicioná-lo.
+Para adicionar novas músicas ao site, basta colocar os arquivos .mp3 na pasta "audio" ( scr/audio ) e a imagem do álbum na pasta "img" ( scr/img ).
+Após isso, é só criar mais um espaço no array "baseMusicas" com todas as informações, e o programa já irá adicionar a música.
 
-## Executar projeto:
+## Projeto funcional
+Observação: Por ser meu primeiro contato com o front-end, o site não foi desenvolvido de forma responsiva, então pode ser que a aparência do site não fique como deveria estar </br>
+Link: [Shioheify]()
+
+### Sobre o Vercel
+A [Vercel](https://vercel.com/new) é uma plataforma voltada para a hospedagem de aplicações de uma forma bem simples e rápida. Ela é conhecida por ser a empresa criadora do framework Next JS, voltado para o React. </br> </br>
+Foi nele que hospedei o site. Basta você logar com sua conta do GitHub, e permitir que ele acesse sua conta, então aparecerá seus repositórios e você poderá fazer deploy.
+
+## Executar projeto na sua máquina:
 Para executar este projeto no seu computador, basta clicar em "Code" e depois em "Download ZIP":
 <img src="src/img/download_repositorio.png">
 
@@ -47,6 +55,7 @@ Ou clone o repositório pelo link:
 ```bash
 $ git https://github.com/shioheii/Shioheify.git
 ```
+
 Então abra a página "index.html" no navegador.
 
 ---
