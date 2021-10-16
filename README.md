@@ -44,7 +44,7 @@ Observação: Por ser meu primeiro contato com o front-end, o site não foi dese
 Link: [Shioheify]()
 
 ### Sobre o Vercel
-A [Vercel](https://vercel.com/new) é uma plataforma voltada para a hospedagem de aplicações de uma forma bem simples e rápida. Ela é conhecida por ser a empresa criadora do framework Next JS, voltado para o React. </br> </br>
+A [Vercel](https://vercel.com/dashboard) é uma plataforma voltada para a hospedagem de aplicações de uma forma bem simples e rápida. Ela é conhecida por ser a empresa criadora do framework Next JS, voltado para o React. </br> </br>
 Foi nele que hospedei o site. Basta você logar com sua conta do GitHub, e permitir que ele acesse sua conta, então aparecerá seus repositórios e você poderá fazer deploy.
 
 ## Executar projeto na sua máquina:
