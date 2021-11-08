@@ -61,7 +61,7 @@ Então abra a página "index.html" no navegador.
 ---
 
 <p align="center">
-  <a alt="Bruno Shiohei Kinoshita do Nascimento Linkedin" href="https://www.linkedin.com/in/bruno-shiohei-24b27621a/">
+  <a alt="Bruno Shiohei Kinoshita do Nascimento Linkedin" href="https://www.linkedin.com/in/bruno-shiohei/">
     <img src="https://img.shields.io/badge/LinkedIn-Bruno%20Shiohei%20Kinoshita%20do%20Nascimento-blue?logo=linkedin">
   </a>
   <a alt="Bruno Shiohei Kinoshita do Nascimento GitHub" href="https://github.com/shioheii">
