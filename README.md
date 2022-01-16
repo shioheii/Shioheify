@@ -40,7 +40,7 @@ Para adicionar novas músicas ao site, basta colocar os arquivos .mp3 na pasta "
 Após isso, é só criar mais um espaço no array "baseMusicas" com todas as informações, e o programa já irá adicionar a música.
 
 ## Projeto funcional
-Observação: Por ser meu primeiro contato com o front-end, o site não foi desenvolvido de forma responsiva, então pode ser que a aparência do site não fique como deveria estar. </br>
+Observação: Por ser meu primeiro contato com o front-end, o site não foi desenvolvido de forma responsiva, então pode ser que a aparência do site não fique como deveria estar. Resolução de tela ideal: 1920 x 1080 </br>
 Link: [Shioheify](https://shioheify.vercel.app/)
 
 ### Sobre o Vercel
